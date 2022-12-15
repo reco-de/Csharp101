@@ -1,0 +1,15 @@
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\bin\Debug\net7.0\donguler-while-foraech.exe
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\bin\Debug\net7.0\donguler-while-foraech.deps.json
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\bin\Debug\net7.0\donguler-while-foraech.runtimeconfig.json
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\bin\Debug\net7.0\donguler-while-foraech.dll
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\bin\Debug\net7.0\donguler-while-foraech.pdb
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.dll
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\refint\donguler-while-foraech.dll
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.pdb
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\donguler-while-foraech.genruntimeconfig.cache
+C:\Users\recep\OneDrive\Masaüstü\recode\.NET\C# 101\donguler-while-foraech\obj\Debug\net7.0\ref\donguler-while-foraech.dll
